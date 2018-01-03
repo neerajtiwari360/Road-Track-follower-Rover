@@ -10,4 +10,4 @@ The Templates for tracking
 
 
 Tracking Rover
-![alt text](IMAG1853(1).jpg)
+![alt text](rover.jpg)
